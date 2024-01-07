@@ -1,0 +1,83 @@
+/* heading section style */
+.header-title1{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+
+font-weight: 400;
+padding-left: 530px;
+padding-right: 530px;
+padding-top: 140px;
+}
+.header-title2{
+    color: #FFF;
+
+    text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+padding-bottom: 180;
+font-weight: 800;
+
+}
+.header-title{
+    gap: 50px;
+}
+.header{
+    
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('image/Banner\ Image.png');
+  
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 50px 140px;
+    backdrop-filter: shadow;
+}
+/* main section style */
+off section style{
+    
+}
+.section-off{
+   background-color:white;
+   margin-top: 100px;
+}
+.off{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+
+}
+.description1{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+}
+.categories{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+}
+.section-off-image{
+    width: 800px;
+height: 500px;
+text-align: center;
+margin-left: 410px;
+margin-right: 390px;
+margin-top: 50px;
+}
+/* Welcome section style */
