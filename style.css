@@ -37,7 +37,7 @@ font-weight: 800;
 }
 /* main section style */
 off section style{
-    
+
 }
 .section-off{
    background-color:white;
@@ -81,3 +81,116 @@ margin-right: 390px;
 margin-top: 50px;
 }
 /* Welcome section style */
+.welcome-section-div{
+    position: relative;
+  width: 1320px;
+height: 600px;
+background-image:linear-gradient(90deg, #070211 0%, rgba(2, 1, 1, 0.014) 100%), url('image/Vectorrr.png');
+display: inline-flex;
+margin: 150px;
+border-radius: 16px;
+
+}
+
+.welcome-section-img{
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding-top: 100px;
+    padding-left: 850px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;}
+    .welcome-title{
+        color: #FFF;
+
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+margin-left: 126px;
+margin-top: 126px;
+position: absolute;
+    }
+.welcome-description1{
+    color: rgba(255, 255, 255, 0.80);
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+position: absolute;
+margin-left: 126px;
+margin-top: 326px;
+}
+.welcome-description2{
+    color: #FFF;
+
+text-align: center;
+font-family: 'Inter', sans-serif;
+
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+position: absolute;
+margin-left: 165px;
+margin-top: 435px;
+}
+#party-description{
+    width: 1320px;
+    height: 482px;
+background-color: #e4bde462;
+     margin: 140px;
+     margin-top: 0px;
+}
+.party{
+    color: #F00;
+
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; 
+text-transform: capitalize;
+}
+.party-description-div{
+    color: #070211;
+font-family: 'Inter', sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+text-align: center;
+padding-top: 100px;
+}
+.join-party{
+    display: inline-flex;
+padding: 5px 30px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #F00;
+margin-left: 600px;
+margin-bottom: 100px;
+margin-top: 40px;
+}
+.join{
+    color: #FFF;
+
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
