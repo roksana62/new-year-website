@@ -1,3 +1,6 @@
+*/{
+   display: 80%;
+}
 /* heading section style */
 .header-title1{
     color: #FFF;
@@ -193,4 +196,77 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
+}
+/* section-offer style */
+.section-offer{
+    background: #FFF;
+    margin: 140px;
+    display: flex;
+    gap: 80px;
+   display: flex;
+}
+.best-offer{
+color: #F00;
+font-family:  'Inter', sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+}
+.comming-soon{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+text-transform: capitalize;
+margin-top: 20px;
+}
+.offer-description1{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family:  'Inter', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+margin-top: 20px;
+}
+.section-offer-div1{
+   margin-top: 80px;
+  
+}
+.section-offer-div2{
+outline: 15px solid #F00;
+border-radius: 100%;
+outline-offset: 30px;
+margin-top: 0px;
+display: flex;
+margin-bottom: 80px;
+}
+.offer-year{
+color: #F00;
+font-family:'Inter', sans-serif;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+
+}
+.offer-description1{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family:  'Inter', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+margin-top: 20px;
+}
+.section-offer-div3{
+    margin-top: 100px;
+   padding-left: 80px;
+}
+.section-offer-img3{
+margin-top: 32px;
 }
