@@ -314,6 +314,34 @@ margin-right: 130px;
 
 }
 .discount-section-img{
+    background-image:url('image/Rectangle\ 1.png'), url('image/Group\ 75.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, bottom left;
+    width: 1200px;
+    height: 400px;
+   margin-top: 100px;
+    margin-bottom: 0px;
+   padding-right: 120px;
+}
+
+.discount-image1{
+    text-align: right;
+    margin-right: 160px;
+    margin-top: 0px;
+    padding-bottom: 100px;
+    position: relative;
+}
+.discount-image2{
+    text-align: left;
+    /* margin-top: 200px; */
+ 
+   text-align: justify;
+    /* justify-content: flex-start; */
+    position: relative;
+
+  
+}
+/* .discount-section-img{
     display: flex;
   justify-content: flex-end;
 }
@@ -341,14 +369,14 @@ position: static;
     margin-bottom: 50px;
    padding-right: 300px; */
    /* padding-left: 50px; */
-   gap: 0px;
+   /* gap: 0px;
   margin-left: 200px;
 }
 .discount-images{
     display: flex;
     justify-content: center;
     padding-right: 0px;
-}
+} */ 
 .gift-section-description1{
     color: #F00;
 
