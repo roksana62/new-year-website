@@ -201,9 +201,11 @@ text-transform: uppercase;
 .section-offer{
     background: #FFF;
     margin: 140px;
+    margin-right: 10px;
     display: flex;
-    gap: 80px;
+    gap: 100px;
    display: flex;
+   
 }
 .best-offer{
 color: #F00;
@@ -243,7 +245,7 @@ border-radius: 100%;
 outline-offset: 30px;
 margin-top: 0px;
 display: flex;
-margin-bottom: 80px;
+margin-bottom: 140px;
 }
 .offer-year{
 color: #F00;
@@ -302,7 +304,7 @@ text-align: center;
 .discount-section-title3{
 color: rgba(7, 2, 17, 0.60);
 text-align: center;
-font-family: Inter;
+font-family: 'Inter', sans-serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
@@ -326,7 +328,7 @@ justify-content: flex-start;
 
 
 }
-..discount-section-img1{
+.discount-section-img1{
 display:flex;
 margin-top: 100px;
 margin-bottom: 0;
@@ -346,4 +348,49 @@ position: static;
     display: flex;
     justify-content: center;
     padding-right: 0px;
+}
+.gift-section-description1{
+    color: #F00;
+
+font-family:'Inter', sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+
+}
+.gift-section-description2{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+
+text-transform: capitalize;
+}
+.gift-section-description3{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: 'Inter', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+.gift-section{
+    margin: 140px;
+}
+.gift-section-img{
+    display: flex;
+    gap: 25px;
+    margin-top: 50px;
+}
+.gift-section-img> div{
+    height: 450px;
+    width: 420px;
+}
+.gift-section-image{
+    display: flex;
+    gap: 25px;
+    margin-top: 25px;
 }
