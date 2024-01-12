@@ -197,6 +197,28 @@ font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
 }
+.discount-section-img{
+   
+}
+.discount-container{
+    display: flex;
+}
+.box1{
+    position: relative;
+    top: 230px;
+}
+.box2{
+    position: relative;
+    top: 300px;
+    z-index: 5;
+    right: 60px;
+}
+.box3{
+    position: relative;
+    right: 213px;
+    top: 235px;
+}
+
 /* section-offer style */
 .section-offer{
     background: #FFF;
@@ -313,7 +335,7 @@ margin-left: 130px;
 margin-right: 130px;
 
 }
-.discount-section-img{
+/* .discount-section-img{
     background-image:url('image/Rectangle\ 1.png'), url('image/Group\ 75.png');
     background-repeat: no-repeat;
     background-position: bottom right, bottom left;
@@ -332,15 +354,15 @@ margin-right: 130px;
     position: relative;
 }
 .discount-image2{
-    text-align: left;
+    text-align: left; */
     /* margin-top: 200px; */
  
-   text-align: justify;
+   /* text-align: justify; */
     /* justify-content: flex-start; */
-    position: relative;
+    /* position: relative;
 
   
-}
+} */
 /* .discount-section-img{
     display: flex;
   justify-content: flex-end;
